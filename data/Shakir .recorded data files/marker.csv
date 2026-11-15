@@ -1,0 +1,26 @@
+software mouseReMoCo;version 1.3.0;isWithLSL false;screenWidth 1902;screenHeight 973;centerX 951;centerY 486;autoStart 3600;cycleMaxNumber 6;cycleDuration 20;borderColor java.awt.Color[r=255,g=255,b=255];textColor java.awt.Color[r=255,g=255,b=255];backgroundColor java.awt.Color[r=0,g=0,b=0];cursorColorRecord java.awt.Color[r=255,g=0,b=0];cursorColorWait java.awt.Color[r=255,g=255,b=0];task circular;cornerX 545;cornerY 80;externalRadius 406;internalRadius 326;borderRadius 1;cursorRadius 16;indexOfDifficulty 48.86179212285402;taskRadius 365.5;taskTolerance 47
+2026-11-15 13:34:05.259 +0100
+
+2026-11-15 13:34:51.275 +0100,1794746091275,KeyTyped=32 ASCI=  DoCycleChange
+2026-11-15 13:34:51.275 +0100,1794746091275,DoCycleChange:DoStartCycleTimedSequence
+2026-11-15 13:34:51.275 +0100,1794746091275,DoCycleChange:DoRecord RecordDone=0 PauseDone=0 ToDo=6
+2026-11-15 13:35:11.291 +0100,1794746111291,DoCycleChange:DoPause RecordDone=1 PauseDone=0 ToDo=6
+2026-11-15 13:35:31.300 +0100,1794746131300,DoCycleChange:DoRecord RecordDone=1 PauseDone=1 ToDo=6
+2026-11-15 13:35:51.310 +0100,1794746151310,DoCycleChange:DoPause RecordDone=2 PauseDone=1 ToDo=6
+2026-11-15 13:36:11.313 +0100,1794746171313,DoCycleChange:DoRecord RecordDone=2 PauseDone=2 ToDo=6
+2026-11-15 13:36:31.314 +0100,1794746191314,DoCycleChange:DoPause RecordDone=3 PauseDone=2 ToDo=6
+2026-11-15 13:36:51.321 +0100,1794746211321,DoCycleChange:DoRecord RecordDone=3 PauseDone=3 ToDo=6
+2026-11-15 13:37:11.328 +0100,1794746231328,DoCycleChange:DoPause RecordDone=4 PauseDone=3 ToDo=6
+2026-11-15 13:37:31.340 +0100,1794746251340,DoCycleChange:DoRecord RecordDone=4 PauseDone=4 ToDo=6
+2026-11-15 13:37:51.343 +0100,1794746271343,DoCycleChange:DoPause RecordDone=5 PauseDone=4 ToDo=6
+2026-11-15 13:37:52.972 +0100,1794746272972,KeyTyped=81 ASCI=Q WINDOW_CLOSING
+2026-11-15 13:37:52.972 +0100,1794746272972,
+    Var , nLaps ,      Re ,      Te ,   error ,  MT/lap , IDe/lap ,      Be ,     IPe ,
+   unit ,   lap ,   pixel ,   pixel ,       % ,   s/lap , bit/lap ,  double ,   bit/s ,
+ Theory ,  1.00 ,  365.50 ,   47.00 ,    3.88 ,         ,         ,    1.00 ,         ,
+ Rec001 ,  5.40 ,  351.90 ,   90.80 ,   39.88 ,    3.54 ,   24.35 ,    1.93 ,    6.88 ,
+ Rec002 ,  4.85 ,  363.77 ,  104.01 ,   30.92 ,    4.02 ,   21.97 ,    2.21 ,    5.47 ,
+ Rec003 ,  4.91 ,  361.33 ,   87.23 ,   22.35 ,    4.03 ,   26.03 ,    1.86 ,    6.45 ,
+ Rec004 ,  5.83 ,  365.50 ,   67.65 ,   16.77 ,    3.37 ,   33.95 ,    1.44 ,   10.06 ,
+ Rec005 ,  5.67 ,  362.65 ,   65.62 ,   13.06 ,    3.48 ,   34.72 ,    1.40 ,    9.99 ,
+
